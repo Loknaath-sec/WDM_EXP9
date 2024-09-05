@@ -34,4 +34,4 @@ for this purpose.
 
 ### Result:
 
-implemented preprocessing technique on Twitter Data using Rapidminer successfully
+Implemented preprocessing technique on Twitter Data using Rapidminer successfully
